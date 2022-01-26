@@ -1,0 +1,15 @@
+back-end:
+
+python manage.py runserver 8080
+nodemon server.js
+mvn spring-boot:run
+php artisan serve --port=8080
+
+
+
+
+front-end:
+
+ng serve --port 8081
+npm run serve
+npm start
